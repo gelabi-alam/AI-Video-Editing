@@ -1,33 +1,25 @@
-# Shopify video previews
+# Shopify video edits
 
-Latest revision: **Shopify-preview-v2.mp4** — 1920×1080, 30 fps, 54.066667 seconds, 34,909,866 bytes.
+Latest: **Shopify-final-v3.mp4** — 1920×1080, 30 fps, 54.066667 seconds, 19,780,661 bytes.
 
-The revision removes subtitles and persistent slide panels, retains the original narration, and adds real moving stock cutaways, animated brand routes, restrained reframing and transitions, color correction, original background music and licensed sound effects.
+The complete original presenter and narration remain visible and in sync throughout. During the explanations, the presenter occupies a substantial rounded portrait frame alongside animated icons, arrows, marketing routes and onboarding steps. The opening and closing use the full frame.
 
-Preview v1 remains available for comparison. No client sales figures, real transactions or endorsements are implied by the illustrative stock footage.
+This revision contains no external stock footage and no subtitles. It retains the original electronic background score and adds retimed licensed sound cues. Earlier previews v1 and v2 are preserved for comparison.
 
 ## Credits and limitations
 
-# Media provenance for Shopify revision v2
+# Shopify final revision v3
 
-Original presenter and narration: user-supplied Shopify (1).mp4. Original upload is preserved. No TTS, identity alteration or synthesized replacement narration is used.
+Presenter and narration: user-supplied Shopify (1).mp4. The complete original message and narration are retained. No synthetic voice or identity alteration. The conservatively corrected presenter source from v2 is reused; no additional color or skin processing is applied.
 
-## Stock footage
+The original export cuts to black at 53.533333s. The final 16 output frames hold the last meaningful original image (53.5s) so the speaker remains visible through the short ending. All narration and mixed audio are retained without truncation or timing change. This reproducible finishing step is recorded in finish_tail.py and analysis/tail-finish.json.
 
-Phone-user clips: `free_stock_videos/vid2.mp4`, `vid4.mp4`, `vid5.mp4` from the public Coverr-inspired collection at https://github.com/hx00r/coverr.co_like . Keyboard detail: `slider_1.mp4` from its HomeHighlights free-stock collection. The collection explicitly states personal/commercial use and no required attribution; this statement is preserved in analysis/research/HomeHighlights.vue. Coverr's free-stock license is the media-use basis, distinct from the template code's GPL license. The original provider's live license page could not be fetched from this network; do not claim an independent live provider-license check. No Shutterstock-folder material or unrelated landscape clips are used. Stock people illustrate digital use; they are not represented as the speaker's customers or as making real purchases.
+No third-party stock footage is included. All graphic scenes are conceptual illustrations of the spoken marketing and onboarding process, not representations of an actual dashboard, account, transaction, client outcome or completed verification.
 
-The phone clips are 1920x1080; the available keyboard clip is 640x360. Its short soft-focus use must not be described as native HD stock.
+Brand marks: Simple Icons 11.15.0, CC0 distribution, with trademark rights retained. Original frozen SVG files and source URLs are retained in assets/logos. No sponsorship is implied.
 
-## Sound effects
+Functional icons: Lucide Static 0.468.0, ISC license. Original frozen SVG files, source URLs, and license are retained in assets/icons. Artwork is recolored/animated to fit the film.
 
-Selected SFX come from HyperFrames 0.8.169's bundled media-use library, sourced from Pixabay under its Content License. The source credits are preserved at assets/sfx/CREDITS.md. Only the mixed derivative movie is published, not a standalone sound-effects library.
+Archivo Black and IBM Plex Mono: Google Fonts, SIL Open Font License. Original electronic background score was authored locally for this project. Mixed SFX are from the HyperFrames 0.8.169 bundled library under the Pixabay Content License; source credits remain in assets/sfx/CREDITS.md. No raw libraries are published.
 
-## Brand references and fonts
-
-Amazon, Shopify, Facebook, Instagram, Google and TikTok icons: Simple Icons 11.15.0, CC0 icon distribution, with trademark rights retained. Local sources are in assets/logos/sources.json. No sponsorship or account access is implied.
-
-Archivo Black and IBM Plex Mono: Google Fonts upstream, SIL Open Font License.
-
-## Reference status
-
-https://youtu.be/nQspigI4SY8 remains inaccessible through normal, mobile, embed and metadata routes (proxy 403). This edit follows the user's explicit feedback and is not represented as a verified match to that reference.
+The earlier YouTube reference remained inaccessible through the tested network routes. This revision follows the user's explicit v3 feedback rather than claiming a visually verified match to that reference.
